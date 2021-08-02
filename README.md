@@ -10,3 +10,4 @@ Additional vendors and classifications/types of purchases can be added under the
 Version description
 ----------------------------
 V0 includes a prototype version of EASE. Subsequent releases will include inference to allow for future spending predictions, more graphical representations, user friendly data output, and possibly an intuitive interface.
+![image](https://user-images.githubusercontent.com/52597940/127813919-d16a697d-7c56-42d5-b4c1-901a2213feaa.png)
