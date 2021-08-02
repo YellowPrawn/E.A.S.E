@@ -31,14 +31,14 @@ SAVE ON FOODS #, Groceries
 "DOUGHGIRLS COMF",Restaurant
 "DRIVER SERVICES",Restaurant
 "E-TRANSFER RECEIVED",Allowance
-"E-TRANSFER SENT",NA
+"E-TRANSFER SENT",Personal
 "EAT CAFE",Restaurant
 "ENERPRO PAP",Housing
 "Five Guys",Restaurant
 "FIVE GUYS BURGE",Restaurant
 "GALLERY",Restaurant
 "GIANT VANCOUVER",Personal
-"GOOGLE *TEMPORA",NA
+"GOOGLE *TEMPORA",Misc
 "GRANVILLE ISLAN",Restaurant
 "GYU-KAKU JAPANE",Restaurant
 "H M CA #037 - P",Personal
@@ -90,5 +90,29 @@ SAVE ON FOODS #, Groceries
 "UPPER CASE",Restaurant
 "UVMC ( WESBROOK",Restaurant
 "VIRTUOUS PIE",Restaurant
-"WWW.WOLFRAMALPH",Subcriptions
-NA,NA
+"WWW.WOLFRAMALPH",Subscriptions
+NA,Misc
+"AMZ*Amazon.ca",Personal
+"AMZN Mktp CA*2E",Personal
+"B.C. HYDRO-PAP",Housing
+"BOOKSTORE STARB",Restaurant
+"BREKA BAKERY",Restaurant
+"CANADIAN TIRE #",Personal
+"DOORDASH*CHICKE",Restaurant
+"DOORDASH*KINTON",Restaurant
+"DOORDASH*MCDONA",Restaurant
+"DOORDASH*SUBWAY",Restaurant
+"DOORDASH*THE FI",Restaurant
+"DOORDASH*TRATTO",Restaurant
+"KONBINIYA JAPAN",Restaurant
+"NANA'S GREEN TE",Restaurant
+"PAYPAL *TBMBM",Personal
+"PHO TAN'S VIETN",Restaurant
+"POKE AYE",Restaurant
+"PTB DEP -- VL273670"Restaurant
+"SAVARY ISLAND P",Restaurant
+"SHABUSEN YAKINI",Restaurant
+"SQ *#5990 STEVE",Restaurant
+"Subway 54751",Restaurant
+"SUNGIVEN FOODS",Groceries
+"THE BUBBLE TEA",Restaurant
